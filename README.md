@@ -66,87 +66,25 @@ The game can be saved and resumed:
 ### Beautiful Interface
 The interface displays scores and game progress in a clear, intuitive manner.
 
-### Images from the Android App
-### Images from the Android App
+### Images from Prolog Program
 
+#### Rolling to see who goes first
+![Main Menu](images/Picture1.png)
 
+#### Computer assisting human to select a high point earning category
+![Main Menu](images/Picture2.png)
 
-<div class="grid-container">
+#### Computer assisting human to pursue keep dice values and pursue a category
+![Main Menu](images/Picture3.png)
 
-<div class="grid-item">
-  <h4>Main Menu</h4>
-  <img src="images/Picture1.png" alt="Main Menu">
-</div>
+#### Computer making decision to keep dice values when high scoring category is available
+![Main Menu](images/Picture4.png)
 
-<div class="grid-item">
-  <h4>First player determine</h4>
-  <img src="images/Picture2.png" alt="First player determine">
-</div>
+#### Computer standing on a category, filling the scorecard, then asking if user wants to save game.
+![Main Menu](images/Picture5.png)
 
-<div class="grid-item">
-  <h4>Winner of the first dice roll</h4>
-  <img src="images/Picture3.png" alt="Winner of the first dice roll">
-</div>
+#### Winner of the tournament being announced
+![Main Menu](images/Picture6.png)
 
-<div class="grid-item">
-  <h4>Main game screen layout</h4>
-  <img src="images/Picture4.png" alt="Main game screen layout">
-</div>
-
-<div class="grid-item">
-  <h4>Human asking for help (above help button)</h4>
-  <img src="images/Picture5.png" alt="Human asking for help">
-</div>
-
-<div class="grid-item">
-  <h4>Computer scoring Full house In Round 7</h4>
-  <img src="images/Picture6.png" alt="Computer scoring Full house In Round 7">
-</div>
-
-<div class="grid-item">
-  <h4>Computer Keeping [2,2] and potential categories</h4>
-  <img src="images/Picture7.png" alt="Computer Keeping [2,2]">
-</div>
-
-<div class="grid-item">
-  <h4>Computer scoring 3 of a kind</h4>
-  <img src="images/Picture8.png" alt="Computer scoring 3 of a kind">
-</div>
-
-<div class="grid-item">
-  <h4>Log of computer scoring 3 of a kind</h4>
-  <img src="images/Picture9.png" alt="Log of computer scoring 3 of a kind">
-</div>
-
-<div class="grid-item">
-  <h4>Display Winner in GUI</h4>
-  <img src="images/Picture10.png" alt="Display Winner in GUI">
-</div>
-
-<div class="grid-item">
-  <h4>Display Winner in Logs</h4>
-  <img src="images/Picture11.png" alt="Display Winner in Logs">
-</div>
-
-<div class="grid-item">
-  <h4>Saving a game and loading a saved game</h4>
-  <img src="images/Picture12.png" alt="Saving a game and loading a saved game">
-</div>
-
-<div class="grid-item">
-  <h4>Loading the saved game (1)</h4>
-  <img src="images/Picture13.png" alt="Loading the saved game (1)">
-</div>
-
-<div class="grid-item">
-  <h4>Loading the saved game (2)</h4>
-  <img src="images/Picture14.png" alt="Loading the saved game (2)">
-</div>
-
-<div class="grid-item">
-  <h4>Loading the saved game</h4>
-  <img src="images/Picture15.png" alt="Loading the saved game">
-</div>
-
-</div>
-
+#### Loading the saved game
+![Main Menu](images/Picture7.png)
